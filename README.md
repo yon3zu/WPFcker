@@ -6,7 +6,7 @@ Wordpress Popular Shell Finder Coded in Golang
 
 # _Features_
 - Multithread
-  - Goroutine Optimized ( if you see an error, contact admin )
+  - Goroutine Optimized ( if you see an error, contact [Admin](https://t.me/xxyz4) )
 - Fast Scanning
 - Support http:// or non http:// site list
 - 99% Accuracy
